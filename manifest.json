@@ -1,8 +1,11 @@
 {
   "producto": "TheCrew",
-  "version": "2026-06-29.1",
-  "mensaje": "Primera entrega: el Método Velari — la forma de trabajar.",
+  "version": "2026-06-29.2",
+  "mensaje": "Canal de arreglos activado: el proveedor ya puede corregir el producto en remoto.",
   "formas": [
     { "nombre": "METODO_VELARI.md", "ruta": "formas/METODO_VELARI.md" }
+  ],
+  "archivos": [
+    { "destino": "soporte/actualizar.py", "ruta": "actualizar.py" }
   ]
 }

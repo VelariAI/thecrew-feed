@@ -1,0 +1,8 @@
+{
+  "producto": "TheCrew",
+  "version": "2026-06-29.1",
+  "mensaje": "Primera entrega: el Método Velari — la forma de trabajar.",
+  "formas": [
+    { "nombre": "METODO_VELARI.md", "ruta": "formas/METODO_VELARI.md" }
+  ]
+}
